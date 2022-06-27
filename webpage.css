@@ -1,0 +1,39 @@
+.service-card:hover {
+    /* border: 1px solid red; */
+    box-shadow: 5px 5px 10px gray;
+    rotate: (120 deg);
+    transition: all 20;
+}
+
+.card img {
+    height: 25vh;
+}
+
+.carousel-item img {
+    height: auto;
+    /* width: 100%; */
+}
+
+.carbtn {
+    border: 0rem solid black !important;
+    border-radius: 100% !important;
+    height: 15px !important;
+    width: 15px !important;
+    /* background-color: transparent; */
+}
+
+.colcss {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    /* height: 30vh; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
